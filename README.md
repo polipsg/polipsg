@@ -54,4 +54,30 @@ Combino uma base acadêmica sólida em modelagem estatística com habilidades em
 ## 🛠️ Tech Stack & Ferramentas
 * **Linguagens & Bibliotecas:** Python (Pandas, NumPy, Scikit-Learn, Matplotlib)
 * **Banco de Dados:** SQL
-* **Especialidades:** Análise Exploratória de Dados (EDA), Modelagem Preditiva,
+* **Especialidades:** Análise Exploratória de Dados (EDA), Modelagem Preditiva, Clustering, Otimização de Processos.
+
+## 🌟 Projetos em Destaque
+
+Nesta seção, destaco projetos que demonstram minha capacidade de ir de ponta a ponta: da extração e limpeza dos dados até a implementação de modelos de Machine Learning.
+
+### 🏫 Sistema de Inteligência Analítica para Gestão Institucional (Dados IFNMG)
+Um framework analítico robusto desenvolvido para o diagnóstico e monitoramento do desempenho educacional, focado em mitigar riscos de evasão e melhorar a eficiência sistêmica.
+
+* **💡 O maior valor do projeto:** A transição de uma gestão baseada em intuição para uma **gestão baseada em evidências**. O projeto não apenas descreve o passado, mas utiliza *clustering não supervisionado* e modelagem de risco para classificar unidades em perfis operacionais reais, permitindo a priorização estratégica de intervenções.
+* **⚙️ Stack:** Python, Scikit-learn, Pandas.
+* **🌍 Aplicações:** Gestão institucional, formulação de políticas públicas e planejamento estratégico.
+
+### 🚚 Fleet Route Optimizer (Projeto Open Source)
+Um projeto colaborativo e de código aberto voltado para a otimização logística, simulando ambientes reais de entrega. 
+
+* **💡 O maior valor do projeto:** A aplicação prática de um pipeline de Machine Learning (utilizando *Random Forest Regressor*) para resolver um problema clássico de negócios: redução de custos e tempo. O modelo prevê o tempo de entrega com base em variáveis dinâmicas (nível de trânsito, horários, paradas e distância), selecionando matematicamente a rota mais eficiente.
+* **🤝 Minha Contribuição:** Como entusiasta do ecossistema Open Source, este projeto evidencia minha capacidade colaborativa e minha habilidade em criar pipelines de ML limpos, modulares (`generate_dataset.py`, `train_route_model.py`, `predict_route.py`) e prontos para contribuição da comunidade.
+* **⚙️ Stack:** Python, Scikit-learn (Machine Learning Pipeline), Pandas, Joblib.
+
+---
+## 🤝 Vamos nos conectar?
+Estou sempre aberta a discutir inovação, projetos open source envolvendo Machine Learning e oportunidades na área de Análise e Ciência de Dados. 
+
+📫 **Me encontre no LinkedIn:** [Poliana Gouveia | LinkedIn](https://www.linkedin.com/in/polianagouveia)
+* **Banco de Dados:** SQL
+* **Especialidades:** Análise Exploratória de Dados (EDA), Modelagem Preditiva,m
