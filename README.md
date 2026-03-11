@@ -79,5 +79,3 @@ Um projeto colaborativo e de código aberto voltado para a otimização logísti
 Estou sempre aberta a discutir inovação, projetos open source envolvendo Machine Learning e oportunidades na área de Análise e Ciência de Dados. 
 
 📫 **Me encontre no LinkedIn:** [Poliana Gouveia | LinkedIn](https://www.linkedin.com/in/polianagouveia)
-* **Banco de Dados:** SQL
-* **Especialidades:** Análise Exploratória de Dados (EDA), Modelagem Preditiva,m
